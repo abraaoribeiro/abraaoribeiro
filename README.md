@@ -34,7 +34,7 @@ Aqui você vai encotrar alguns projetos e laboratórios que realizar para testar
   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">  
    <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="./svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
