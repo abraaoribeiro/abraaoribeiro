@@ -1,6 +1,6 @@
 ### Olá 🎉🎈🎉🎈
 
-Aqui você vai encotrar alguns projetos e laboratórios que realizar para testar e aperfeiçoar minhas habilidades, sinta-se à vontate para explorar os meus projetos 😄.
+Aqui você vai encotrar alguns projetos e laboratórios que realizei para testar e aperfeiçoar minhas habilidades, sinta-se à vontate para explorar os meus projetos 😄.
 
 ---
 ### 📢 Me encontre nas redes sociais
