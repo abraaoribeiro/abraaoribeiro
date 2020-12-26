@@ -1,4 +1,4 @@
-### Olá 🎉🎈🎉🎈
+### Olá Pessoal 😄
 
 Aqui você vai encotrar alguns projetos e laboratórios que realizei para testar e aperfeiçoar minhas habilidades, sinta-se à vontate para explorar os meus projetos 😄.
 
