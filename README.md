@@ -18,32 +18,6 @@ Aqui você vai encotrar alguns projetos e laboratórios que realizei para testar
 
 <hr>
 
-## 🔧 Algumas das tecnologias e ferramentas que utilizo.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">  
-   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:4px">    
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
-
-   
-</p>
-
-
-
 ---
 
 ### 📈 Minhas Atividades.
