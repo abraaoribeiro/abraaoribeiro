@@ -7,14 +7,22 @@ Aqui você vai encotrar alguns projetos e laboratórios que realizei para testar
 
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/abraão-souza-ribeiro/">
+  
+   <a href="https://www.linkedin.com/in/abraão-souza-ribeiro/">
     <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="abraaohdg@gmail.com">
     <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:4px">
   </a>
+  
+ <a href="https://www.instagram.com/_abraaoribeiro/">
+    <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top; margin:4px">
+  </a>
+
+  <a href="https://twitter.com/abraaosribeiro">
+    <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+  </a>  
 
 <hr>
 
