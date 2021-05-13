@@ -1,4 +1,3 @@
-### Olá Pessoal 😄
 
 Jovem apaixonado por tecnologia e desenvolvimento de Software/Apps.
 
