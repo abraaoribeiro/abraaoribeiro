@@ -1,6 +1,8 @@
 ### Olá Pessoal 😄
 
-Aqui você vai encotrar alguns projetos e laboratórios que realizei para testar e aperfeiçoar minhas habilidades, sinta-se à vontate para explorar os meus projetos 😄.
+Jovem apaixonado por tecnologia e desenvolvimento de Software/Apps.
+
+Vasto conhecimento em desenvolvimento de Software do Back-end ao Front-end e suas tecnologias, focado em desenvolvimento back-end com Java e aprimorando o conhecimento no mundo mobile com projetos pessoais utilizando flutter.
 
 ---
 ### 📢 Me encontre nas redes sociais
