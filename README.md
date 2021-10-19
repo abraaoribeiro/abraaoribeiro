@@ -7,7 +7,7 @@ Vasto conhecimento em desenvolvimento de Software do Back-end ao Front-end e sua
 ### 📢 Me encontre nas redes sociais
 
 
-<p align="center">
+<p align="left">
   
    <a href="https://www.linkedin.com/in/abraão-souza-ribeiro/">
     <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
@@ -26,6 +26,18 @@ Vasto conhecimento em desenvolvimento de Software do Back-end ao Front-end e sua
   </a>  
 
 <hr>
+
+
+## 🔧 Minha pilha de tecnologia 👩‍💻
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/ionic.svg" alt="ionic" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/abraaoribeiro/abraaoribeiro/master/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px">
+</p>
 
 ### 📈 Minhas Atividades.
 
