@@ -1,7 +1,7 @@
 
 Jovem apaixonado por tecnologia e desenvolvimento de Software/Apps.
 
-Vasto conhecimento em desenvolvimento de Software do Back-end ao Front-end e suas tecnologias, focado em desenvolvimento back-end com Java e aprimorando o conhecimento no mundo mobile com projetos pessoais utilizando flutter.
+Vasto conhecimento em desenvolvimento de Software do Back-end ao Front-end e suas tecnologias, focado em desenvolvimento back-end com Java.
 
 ---
 ### 📢 Me encontre nas redes sociais
